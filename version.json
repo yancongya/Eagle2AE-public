@@ -1,7 +1,7 @@
 {
-  "version": "2.1.6",
+  "version": "1.0.0",
   "description": {
-    "zh": "版本2发布",
-    "en": "Supports new version checking and update content display"
+    "zh": "初始版本",
+    "en": "Initial version"
   }
 }
